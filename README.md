@@ -3,3 +3,5 @@ Exploratory Data analysis and application of ML models on stocks of tech compani
 Made in Jupyter notebook and in python language
 Data was obtained using Yahoo finance
 hola
+
+for branch master
